@@ -1,4 +1,4 @@
-# CanvasAppsSharingApprovalWebHook
+# CanvasAppsSharingApprovalWebHook Sample
 Sample solution based on O365 Audit Log webhook to implement approval whenever a user shares a Canvas App.
 
 Download and view the PowerPoint file for step by step guide in registering the webhook for O365 Audit log.
